@@ -1,37 +1,39 @@
-# 👋 Olá! Sou Yogananda Vasconcelos
+# Olá, sou Yogananda Vasconcelos 👋
+### Unindo Design, Código e Qualidade para criar soluções digitais incríveis.
 
-### Analista de Sistemas | UI/UX Designer | Especialista em Qualidade (QA)
+Sou apaixonada por transformar ideias complexas em produtos digitais que as pessoas amam usar. Minha experiência única combina três áreas essenciais:
 
-> Minha missão é traduzir necessidades complexas em soluções digitais que sejam funcionais, elegantes e, acima de tudo, confiáveis.
+* **🎨 UI/UX Design:** Crio interfaces intuitivas e elegantes no **Figma**, colocando sempre o usuário no centro de tudo.
+* **⚙️ Análise de Sistemas:** Construo a ponte entre o design e os desenvolvedores com especificações técnicas precisas que otimizam o fluxo de trabalho.
+* **✅ Qualidade (QA):** Garanto que cada entrega seja robusta, confiável e de alta performance, aplicando uma mentalidade de testes contínuos.
 
-Sou uma profissional com uma abordagem integrada que une a visão estratégica da Análise de Sistemas, a criatividade do Design de Experiência do Usuário e o rigor técnico da Garantia de Qualidade.
-
-* **🎨 Como UI/UX Designer:** Prototipo e refino experiências no Figma, sempre com o foco na jornada do usuário.
-* **⚙️ Como Analista de Sistemas:** Crio especificações técnicas claras que aceleram o desenvolvimento e servem como ponte entre o design e o código.
-* **✅ Com a Mentalidade de QA:** Asseguro que a qualidade seja um pilar em todas as etapas, garantindo produtos coesos, testáveis e de alto desempenho.
-
-Essa sinergia me permite reduzir o atrito entre equipes e entregar resultados que realmente fazem a diferença.
+Acredito que a verdadeira inovação acontece na interseção dessas três áreas.
 
 ---
 
-## 🛠️ Stack de Habilidades
+### 💻 Minhas Ferramentas e Tecnologias
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Software%20Testing-009966?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%20Methodologies-007ACC?style=for-the-badge&logo=trello&logoColor=white)
-
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> </a>
+</p>
 
 ---
 
-## 📫 Entre em Contato
+### 🚀 Vamos Conversar?
 
-Como UI/UX Designer e consultora freelancer, busco colaborar em projetos que valorizem a excelência técnica e o design centrado no usuário. Se você tem um desafio em mãos, adoraria conversar sobre como podemos solucioná-lo juntos.
+Atualmente, atuo como **UI/UX Designer e consultora freelancer**. Se você está buscando uma profissional que entende o ciclo de vida completo de um produto digital e se preocupa com a excelência do início ao fim, adoraria conectar com você!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogavasc/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yogavasc@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/yogavasc" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="yogavasc@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
