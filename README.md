@@ -1,4 +1,4 @@
-# Olá, sou Yogananda Vasconcelos 👋
+# Olá, sou Yogananda Vasconcelos
 ### Unindo Design, Código e Qualidade para criar soluções digitais incríveis.
 
 Sou apaixonada por transformar ideias complexas em produtos digitais que as pessoas amam usar. Minha experiência única combina três áreas essenciais:
