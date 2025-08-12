@@ -4,7 +4,7 @@
 Sou apaixonada por transformar ideias complexas em produtos digitais que as pessoas amam usar. Minha experiência única combina três áreas essenciais:
 
 * **UI/UX Design:** Crio interfaces intuitivas e elegantes no **Figma**, colocando sempre o usuário no centro de tudo.
-* **⚙Análise de Sistemas:** Construo a ponte entre o design e os desenvolvedores com especificações técnicas precisas que otimizam o fluxo de trabalho.
+* **Análise de Sistemas:** Construo a ponte entre o design e os desenvolvedores com especificações técnicas precisas que otimizam o fluxo de trabalho.
 * **Qualidade (QA):** Garanto que cada entrega seja robusta, confiável e de alta performance, aplicando uma mentalidade de testes contínuos.
 
 Acredito que a verdadeira inovação acontece na interseção dessas três áreas.
