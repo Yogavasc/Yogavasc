@@ -1,17 +1,17 @@
-# Olá, sou Yogananda Vasconcelos
-### Unindo Design, Código e Qualidade para criar soluções digitais incríveis.
+# Hello, I'm Yogananda Vasconcelos
+### Combining Design, Code, and Quality to create amazing digital solutions.
 
-Sou apaixonada por transformar ideias complexas em produtos digitais que as pessoas amam usar. Minha experiência única combina três áreas essenciais:
+I'm passionate about transforming complex ideas into digital products that people love to use. My unique experience combines three essential areas:
 
-* **UI/UX Design:** Crio interfaces intuitivas e elegantes no **Figma**, colocando sempre o usuário no centro de tudo.
-* **Análise de Sistemas:** Construo a ponte entre o design e os desenvolvedores com especificações técnicas precisas que otimizam o fluxo de trabalho.
-* **Qualidade (QA):** Garanto que cada entrega seja robusta, confiável e de alta performance, aplicando uma mentalidade de testes contínuos.
+* **UI/UX Design:** I create intuitive and elegant interfaces in Figma, always putting the user at the center of everything.
+* **Systems Analysis:** I build the bridge between design and development with precise technical specifications that optimize the workflow.
+* **Quality (QA):** I ensure that every delivery is robust, reliable, and high-performing, applying a continuous testing mindset.
 
-Acredito que a verdadeira inovação acontece na interseção dessas três áreas.
+I believe that true innovation happens at the intersection of these three areas.
 
 ---
 
-### 💻 Minhas Ferramentas e Tecnologias
+### 💻 My Tools and Technologies
 
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> </a>
@@ -25,9 +25,9 @@ Acredito que a verdadeira inovação acontece na interseção dessas três área
 
 ---
 
-### Vamos Conversar?
+### Let's Talk?
 
-Atualmente, atuo como **UI/UX Designer e consultora freelancer**. Se você está buscando uma profissional que entende o ciclo de vida completo de um produto digital e se preocupa com a excelência do início ao fim, adoraria conectar com você!
+I currently work as a freelance UI/UX Designer and consultant. If you are looking for a professional who understands the complete lifecycle of a digital product and cares about excellence from start to finish, I would love to connect with you!
 
 <p align="left">
 <a href="https://linkedin.com/in/yogavasc" target="_blank">
