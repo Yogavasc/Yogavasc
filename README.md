@@ -27,7 +27,7 @@ I believe that true innovation happens at the intersection of these three areas.
 
 ### Let's Talk?
 
-I currently work as a freelance UI/UX Designer and consultant. If you are looking for a professional who understands the complete lifecycle of a digital product and cares about excellence from start to finish, I would love to connect with you!
+I currently work as a freelance. If you are looking for a professional who understands the complete lifecycle of a digital product and cares about excellence from start to finish, I would love to connect with you!
 
 <p align="left">
 <a href="https://linkedin.com/in/yogavasc" target="_blank">
